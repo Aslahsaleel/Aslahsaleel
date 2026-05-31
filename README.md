@@ -5,7 +5,7 @@ Software Engineer
 </h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/aslahsaleel">LinkedIn</a> •
+<a href="https://linkedin.com/in/aslahsaleel">LinkedIn</a>
 </p>
 
 <h2>🛠 Tech Stack</h2>
