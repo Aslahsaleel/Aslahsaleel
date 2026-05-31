@@ -7,3 +7,19 @@ Software Engineer
 <p align="center">
 <a href="https://linkedin.com/in/yourname">LinkedIn</a> •
 </p>
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TailwindCSS
+
+### Backend
+- Node.js
+- Express
+- MongoDB
+
+### AI
+- OpenAI API
+- LangChain
