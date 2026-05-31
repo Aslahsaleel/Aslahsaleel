@@ -5,21 +5,19 @@ Software Engineer
 </h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/yourname">LinkedIn</a> •
+<a href="https://linkedin.com/in/aslahsaleel">LinkedIn</a> •
 </p>
 
-## 🛠 Tech Stack
+<h2>🛠 Tech Stack</h2>
 
-### Frontend
-- React
-- Next.js
-- TailwindCSS
+<h3>Frontend</h3>
+<ul>
+  <li>React, Next.js, TypeScript, TailwindCSS</li>
+</ul>
 
-### Backend
-- Node.js
-- Express
-- MongoDB
+<h3>Backend</h3>
+<ul>
+  <li>Node.js, Express, MongoDB</li>
+  <li>Java, Python</li>
+</ul>
 
-### AI
-- OpenAI API
-- LangChain
