@@ -8,6 +8,16 @@ Software Engineer
 <a href="https://linkedin.com/in/aslahsaleel">LinkedIn</a>
 </p>
 
+<hr>
+
+<h2>🚀 About Me</h2>
+
+<ul>
+  <li>💼 Software Engineer</li>
+</ul>
+
+<hr>
+
 <h2>🛠 Tech Stack</h2>
 
 <h3>Frontend</h3>
