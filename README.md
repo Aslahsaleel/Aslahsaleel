@@ -217,18 +217,6 @@ LBS College of Engineering, Kasaragod
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aslahsaleel&show_icons=true&theme=tokyonight" alt="Aslah's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aslahsaleel&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with developers, recruiters and people working on interesting software projects.
