@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aslah Saleel T</h1>
 
-<h3 align="center">Software Developer | Full-Stack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/aslahsaleel">LinkedIn</a> •
