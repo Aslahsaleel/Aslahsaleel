@@ -229,14 +229,6 @@ LBS College of Engineering, Kasaragod
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aslahsaleel&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with developers, recruiters and people working on interesting software projects.
